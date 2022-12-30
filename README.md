@@ -4,7 +4,7 @@ A simple console game written in C++, where player tries to kill all the aliens.
 
 ## Aliens are coming!
 
-After some time  they will start moving down))
+After some time  they will start moving down))  
 And be careful, if aliens shoot you 3 times you will loose the game.
 
 
